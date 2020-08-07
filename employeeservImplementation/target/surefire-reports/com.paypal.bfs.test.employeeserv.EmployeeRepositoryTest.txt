@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.paypal.bfs.test.employeeserv.EmployeeRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 6.887 s <<< FAILURE! - in com.paypal.bfs.test.employeeserv.EmployeeRepositoryTest
+whenFindById_thenReturnEmployee(com.paypal.bfs.test.employeeserv.EmployeeRepositoryTest)  Time elapsed: 0.099 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	The method assertThat(Integer) is undefined for the type EmployeeRepositoryTest
+
+	at com.paypal.bfs.test.employeeserv.EmployeeRepositoryTest.whenFindById_thenReturnEmployee(EmployeeRepositoryTest.java:52)
+
